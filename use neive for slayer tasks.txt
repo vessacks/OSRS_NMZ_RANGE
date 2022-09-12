@@ -1,0 +1,19 @@
+birds - tueral
+black demon - cahelder, konar, neive, duradel
+dagannoth - vannaka chaeldar, konar, neive, duradel
+green dragon - vannaka
+ice warriors - mazchana vannaka
+lizardmen - konar, chaeldar, neive, duradel
+scabarite - neive
+troll - vannaka, chaeldar, konar, neieve, duradel
+vampire - mazchna, vannaka
+
+tueral I
+chaeldar IIII weight = 10+11+8+11 = 40/422 = .094
+konar IIII weight = 9+8+8+6 = 31/259 = .119
+			neieve IIIII weight = 9+8+8+4+6= 35/262 = .1335
+duradel IIII weight = 8+9+10+6 = 33/301 = .109
+mazchana II weigth = 7+6 = 13/217 = .059
+vannaka IIIII weight 7+6+7+7+7 = 32/392 = .0816
+
+NEIVE IS THE WINNER TAKE TASKS FROM HIM

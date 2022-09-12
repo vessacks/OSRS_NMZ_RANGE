@@ -1,0 +1,262 @@
+956 absorb. i healed up to 4 at one point so extra burn rate.
+
+70k/h xp with badly boosted stats-- expect slightly over 70k using supercombats and no no dad.
+
+X drop kamil-- he freezes you too much
+X drop dad -- he disrupts you and moves you around
+X drop fareed -- makes you drop your weapon without ice gloves
+X drop damis-- he's invincible for some reason
+
+add arrg. 
+
+
+test rumble:
+draynor
+witches experiment - kinda low health, but low def too. less so in hard formm
+me
+tree spirit -- hittable
+khazard warlord
+arrg
+bouncer
+black demon -- drop crazy high defence
+nezikchened
+
+last screen touch before 4m in-- all else just flicking prayer and potting
+find the monsters with the lowest def level and fight them exclusively
+above is misleading-- for points it's probably better to do harder monsters
+add jungle demon-- on hard he's melee only, may get stuck.
+monster strength doesn't matter, only accuracy and style
+drop witches experiment. only 2k points on hard.
+good bosses to unlock: 
+	king roald (melee only, low def, 8k points hard. 
+	the kendall (melee, low def, good points)
+	headless beast("")
+
+to drop:
+	experiments (not enough points_
+	black demon(magic too accurate)
+
+arrg is amazing points/def/health spread
+black demon gets stuck
+
+
+21m in, 170 of 1000 absorb remaining. 
+25 mins in, have not attacked anyone, no stopping. have flicked prayer, switched menus
+26 mins, nearly stuck. got to find better place to stand
+27m, stuck. relocating.
+
+
+test run 3, customizable hard rumble:
+
+monsters:
+jungle demon
+bouncer
+me
+tree spirit
+khazar warlord
+nasastrarool
+count draynor
+
+final points average:160k/h
+sorb burn rate: 736 in 24:31 = .5004 sorb/second. no protect melee on repots. I estimate I coudl get below .4 with melee protectio on repots. 
+final run time: 1h. 
+
+notes: 
+0. I used all 7 feasible (no weird mechanics, melee only) monsters, but you should drop the worst 2 to make 5. 
+1.marked blue tile for where you must stand to avoid snags
+2. no snags, no problems really
+3. 8 mins in, 787 of 1000 absorbs remaining
+4. the time between hitting overload and full overload effect eats a lot of sorbs. maybe a majority.
+5. nazastarool has a ghost form after being killed.
+6. jungle demon hits real slow, actually eats fewer sorbs than average
+7. consider running protect from melee for the time it takes for new overload to have effect. fuck me it eats a lot of sorbs
+8. 24:31 in, 264/1000 sorb remaining. the 5 seconds per cycle of repotting overloads takes probably 30% of all sorb consumption.
+9. 26:32, I've behaved as the bot up to this point (minus hotkeys) and am confident it won't lose aggro. From now on I will act like a human when i want
+10. I held on melee protect while repotting. cost 2 prayer points. I think it's worth it for the sorb savings. 
+11. 30 mins, 61k xp/hour training attack with obby setup. NOTE: xp tracker may include data from previous run too though. double checking by resetting
+12. 31:30, getting 90k+ on nazastarool hard first form, falling rapidly on jungle demon est 62k. 
+13. flubbed a protect from melee repot, cost 5 prayer points. I hit smite by accident. 
+14. Jungle demons just too high def i think. it nukes my xp/hour. not sure how much its earning in points. 
+15. I fucked up and resorbed without noting time or amount. take data from (8.) as best. 
+16. a ton of fucking zeros on jungle demons. they're clearly points winner, but for 160k gp/h I don't give a shit about points
+
+
+conclusion:
+1.the points/h aren't significant right now. we're making 160k point/h with jungle demons, but we should forget them and focus on low def monsters. When possible points get near 750k gp/h then revisit.  
+2. king roald is an amazing unlock. look into it. 
+
+formula for predicting run time and setting inventory:
+
+#overloads + #absorbtions = 27 (the 28th slot is for rockcake)
+overload dosetime= 20 minutes (definitionally 5min x 4doses)
+absorbtion dosetime = 6.666 minutes on this run, I estimate 9.52 minutes with prayer.
+
+inventory setup) #overloads = (27 * absorbtion dosetime)/(overload dosetime) * (1/(1 + (absorbtion dosetime/overload dosetime))
+
+no prayer estimate: 2.25h runtime, 6.75 overloads, 20.25 absorbtions. lean towards more overloads if you drop the jungle demons
+
+w. prayer estimate: 2.9h runtime, 8.71 overloads, 18.28 absorbtions.
+
+
+test run ??? 9.7.22
+running roald, snake, draynor, arrg, trapped soul
+took 36 overloads, ran out of prayer pots and points with 3 overloads remaining. 700 sorbs in the tank, no spares. try taking an extra prayer pot next time-- when you run out the bot doesn't behave well (clicking dead prayer buttons)
+
+
+
+
+
+
+notes as of 8.24.22
+- make a mask for the zero prayer observer. the tick flashing tick coutner might fuck it up. DONE
+- consider unlocking some more bosses for more point/hour
+
+run 4 notes: 
+- used bottom five simple melee monsters (no jungle demons, no black demons)
+- run disrupted by runelite crashing
+	- final stats
+	- runtime 1:44:28
+	- 80,299 points/h
+	- as I remember, about 75k xp/h. this could be wrong, I'm adding xp figures after the fact
+	- 1234 hits of sorb remaining out of 19x200= 3800 starting hits. 
+	- you ran it with 6 overloads, two prayer pots (unused for tech reasons) and a rockcake. add more overloads next time. maybe 9 for 3h run? 
+
+run 5 notes:
+- 9 bottles overload
+- prayer pots
+- one rock cake
+-12 bottles absorb
+- using all monsters that don't require special attention (including magic and ranged monsters
+-custom rumble hard 
+- start time ~10:15pm
+-training on defensive; this will reduce xp/hour (i think) and reduce absorbtion burn (I think defensive gives special def boost, but no special att or str boost as str or attack would)
+- 15 mins in, points/h= 127k, xp/h = 67k. I think it's better to get the 75k on five bottom def. melee monsters and get only 80k/h points.
+- thsi is an innefficient runs sorbwise: I did a bunch of bug fixes during it and ate a lot of 51hp damage. also I ran around a bit, costing xp. jsut keep that in mind when considering this run data
+- DAD plus Chronozon really suck-- you're constnatly being batted around the room and never hit anyone
+- died early to a fuckup
+-final results
+- 180k point/h (as remembered mind you)
+- 67k xp/h (as remembered mind you)
+- started with 9 overloads, I'm guessing I had about 3 too many
+
+run 6 notes:
+- 9 bottles overloads
+-12 bottles absorb
+- one rock cake
+- two prayer pots
+- using all monsters that don't require speciall attention, and don't teleport you around (look at you dad and agrith naar)
+- start time ~11:35
+- 11:45 getting ? pionts/h only 52k xp/h. one and for all, you should max xp and get your money from other shit once you're high melee
+-11:55 almost got stuck. another reason to stick with lof def melee only
+-1:58am died. you lost some prayer pots to mispotting but in general it went reasonably well\
+- on death the game crashed, also you have no way of turning off the script once dead. figure it out.
+
+
+ideas for run 7:
+1. only 1 prayer pot. you dont need two
+2. perhaps just 8 overloads instead of 9. I think there will be leftvoers from run 6.
+
+test run 7 8.25.22:
+- added a wakeup indicator that looks for the wakeup chat message
+-turned off zero prayer mask to see if it prevents false positives. 
+setup:
+- 8 overloads
+- 1 rockcake
+- 1 praypot
+- 18 sorbs
+monsters: everything that doesn't require special attention, minus dad. dad + agrith naar is a ngihtmare lol
+started against wall -- only two monsters attack at oncve
+-sstart 1:30pm, ran 2h 20 mins 
+
+for run 8:
+- you lost a lot of sorbs to a 2hp. include an auto guzzle on every re-pot
+
+test run 8:
+- 9 overloads
+- 1 rockcake
+- praypot
+- 17 sorbs
+we're doing a melee only, bottom 5 bosses
+-3:45 start
+- noticed a crash 5:23pm. I'm guessing based on points it ran about 90 mins. given crash frequency it may make more sense to do 2h, high points runs
+
+ideas for test run 9:
+- you lost a lot of sorbs to a 2hp on run 7. include an auto guzzle on every re-pot
+
+NOTE: I've imbued the berserker ring. My  new average dps will be higher even if ntohing else chagnes
+
+test run 9
+- run 8 crashed, so did run 7. I'm doing a high points short run because I don't think it can go very long without crashing
+- 8 overload, 1 cake, 1 prayer, 18 sorb
+- monsters: everything that doesnt' have special mechanics. including daganoth momma, dad and the teleporting guy though. 
+- stopped early because I was getting sub 60k xp and 180k points. the teleporters chug cock, can't do it. no dagganoth, no teleporter
+- run 9 crashed on exit. no idea how long it ran. 
+
+run 10. 
+- 8 overload, 1 cake, 1 prayer, 18 sorb
+- no teleporters, no wacky shit. range and dad included though. same with corsair guy.
+- started 11:28, running good so far
+-12:14, only 61kxp adn 218kpoints per hour, somethings up I guess. I only did one manual powerup-- perhaps that's it?
+- about 12.5 sorbs remaining, including the ones in the hopper. 
+- I think it might be dad that is ruining my points and xp. he's constantly tossing me around the arena. 
+- 12:53, it's up to 68kxp and 227kpoint per hour. 
+-1:40, 72kxp and 247k points
+-1:51am, nmz crashes. 
+final stats:
+- remaining overloads = unknown, I think only one bottle
+- remaining aborbtions = 0 bottles, 912 hits in the tank
+- points earned = 606,057
+- points average = 253,119/hour
+-xp average = 72.8k/hour  including 2970k/h slayer xp for killing trolls
+
+ideas: 1. make the mouse move off screen AFTER the last action, not right befor ethe next one. 
+	. that way the mouse is almost always off screen
+
+IMPORTANT: I learned we're earning 35.85667% of the max avaliable points per boss on hard mode.
+	- this is because several bosses are disabled, and many more are not unlocked. unlock more bosses to boost points. 
+
+run 11: started 2:10am
+- i've turned off witches experiment because it weakens my stats a bit. turned on corsair traitor because he only hits def, which doesn't affect damage. 
+- i've modified the nmz_melee so that it shuts off when it tried to turn off protect melee and can't find it. this should get it to turn off within 5m of the game crashing. 
+- I think it worked without crashing
+
+run 12: started 2:59pm
+- no dad, no teleporters, no weird mechanics, no witches experiment. corsair traitor included.
+- it froze after 20 mins. I actually lost money on this one. fuck. 
+
+run  13: started 4:09
+- added dad and witches xperiment
+- 65kxp, bad. try an xp only run next
+- I've done zero helping this run-- no powerups. 6:24pm its averaging 68.3kxp and 205k points. 
+- died at 6:32. No crash, exiting function worked great, ie it saw the wakeup message and quit. 1.5 bottles overload left over, 2 pray doses. no sorbs.
+
+
+run 14: now with dragon defender
+- I'm bleeding hp but getting higher xp. 
+- started 2:59, by 3:04 I'm already up to 195k points and 65k xp. it will rise I think. the sorb bleed is so high that I might be not repotting fast enough.3:15 PM 8/28/2022
+- you've moved the 'walk away' point, and now it misses overload flicks-- too early. make it wait longer to re-overload
+
+run 15: no witches xperiment, no dad. 
+- started 4:05pm
+
+run16: started 4:57, incl. witches and dad
+- no help given with perks
+- 5:39 and its getting 85kxp and 265k points. includes 1276xp from slayer. I think the dragond efender is working its magic.
+- runelite crashed again
+
+run17: 5 easiest bosses only
+- you're getting around 100k points/h and 99k xp. pretty good. add in a combat prayer flicker and it could be even better, but riskier to run
+- alternatively, add some new bosses from the good list. 
+run18: 5 easiet bosts only
+- it's not hwo you think. it's dad and arrg. 1h in getting 117kxp and 158kpoints. this inlcudes 10.1k slayer. 
+-
+
+
+run ??? 9.8.22
+- you're doing 9 overloads, two prayer pots, 17 sorbs. no spec weapon and no cake.
+- your sorbs slightly outlast overloads. 250 sorb points and 2 prayer doses left when last voerload dies. 
+- fixed a bug with an endless loop occurring when melee prayer turned off (happens when out of overloads). 
+-110kxp/h no slayer task
+
+run 9.8.22
+- 9 overloads, 2 PP, a rock 16 sorbs. didn't need the rock but in previous runs I would have. died with one full PP, 13 prayer, 1 overload and 0 sorb. I think this is the way. If you trained prayer you could get more from the PP and drop the second pot. 
